@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+opencv-contrib-python
+numpy
+matplotlib
+tensorflow
+keras
+python-socketio
+Flask
+=======
+opencv-contrib-python
+numpy
+matplotlib
+tensorflow
+keras
+python-socketio
+Flask
+>>>>>>> 5c072e5 (Add My Contribution)
+eventlet
